@@ -1,7 +1,7 @@
 const notaInput = document.getElementById('notaInput');
 const addButton = document.getElementById('addButton');
 const filterInput = document.getElementById('filterInput');
-const notaContainer = document.getElementById('notaContainer');
+const notaContainer = document.getElementById('notaList');
 
 let notas = [];
 
